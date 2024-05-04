@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document>
+        <Style id="wifi-ap-open">
+            <LabelStyle>
+                <color>#ff00FF00</color>
+            </LabelStyle>
+            <IconStyle>
+                <color>#ff00FF00</color>
+            </IconStyle>
+        </Style>
+        <Style id="wifi-ap-wep">
+            <LabelStyle>
+                <color>#ff0080FF</color>
+            </LabelStyle>
+            <IconStyle>
+                <color>#ff0080FF</color>
+            </IconStyle>
+        </Style>
+        <Style id="wifi-ap-wpa">
+            <LabelStyle>
+                <color>#ff0000FF</color>
+            </LabelStyle>
+            <IconStyle>
+                <color>#ff0000FF</color>
+            </IconStyle>
+        </Style>
+        <Placemark id="0" styleUrl="#wifi-ap-wpa">
+            <name>FASTWEB-YKQ965</name>
+            <description>Name: DC:F8:B9:A8:94:3F
+Signal: -79
+Encryption: WPA2
+Channel: 6</description>
+            <Point>
+                <coordinates>12.4580077088137,41.846824547872,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1" styleUrl="#wifi-ap-wpa">
+            <name>WINDTRE-145188</name>
+            <description>Name: E6:FA:C4:14:51:89
+Signal: -92
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4580964377548,41.8470382715719,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2" styleUrl="#wifi-ap-wpa">
+            <name>Wind3 HUB - 1A77C8</name>
+            <description>Name: 84:93:B2:1A:77:C8
+Signal: -85
+Encryption: WPA2
+Channel: 7</description>
+            <Point>
+                <coordinates>12.4581067121865,41.847060907178,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3" styleUrl="#wifi-ap-wpa">
+            <name>Opposabri</name>
+            <description>Name: B2:C6:F8:9D:CB:82
+Signal: -90
+Encryption: WPA2
+Channel: 12</description>
+            <Point>
+                <coordinates>12.458515132036,41.8478877554017,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4" styleUrl="#wifi-ap-wpa">
+            <name>Galaxy A20e691C</name>
+            <description>Name: 86:AC:A5:09:64:7A
+Signal: -88
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4582227952715,41.847134992443,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5" styleUrl="#wifi-ap-wpa">
+            <name>Home&amp;Life SuperWiFi-F0FA</name>
+            <description>Name: B8:D5:26:15:F0:FA
+Signal: -87
+Encryption: WPA2
+Channel: 3</description>
+            <Point>
+                <coordinates>12.4582227952715,41.847134992443,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6" styleUrl="#wifi-ap-wpa">
+            <name>TIM-28098765</name>
+            <description>Name: 20:B0:01:AC:C0:CD
+Signal: -83
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4583417082371,41.84675394213,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7" styleUrl="#wifi-ap-wpa">
+            <name>FASTWEB-E6r45G_2.4GEXT</name>
+            <description>Name: CC:32:E5:6A:14:46
+Signal: -84
+Encryption: WPA2
+Channel: 2</description>
+            <Point>
+                <coordinates>12.4586311979627,41.8466733278403,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8" styleUrl="#wifi-ap-wpa">
+            <name>Wind3 HUB-505041</name>
+            <description>Name: EC:3E:B3:50:50:41
+Signal: -82
+Encryption: WPA2
+Channel: 4</description>
+            <Point>
+                <coordinates>12.4586399503862,41.846670544582,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9" styleUrl="#wifi-ap-wpa">
+            <name>Vodafone-55121644</name>
+            <description>Name: E4:8F:34:36:0D:7C
+Signal: -85
+Encryption: WPA2
+Channel: 5</description>
+            <Point>
+                <coordinates>12.4586399503862,41.846670544582,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10" styleUrl="#wifi-ap-wpa">
+            <name>iliadbox-670616</name>
+            <description>Name: 22:66:CF:68:60:E4
+Signal: -93
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4582734025097,41.8467598486006,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11" styleUrl="#wifi-ap-wpa">
+            <name>FASTWEB-V9X5M5</name>
+            <description>Name: 1C:B0:44:62:ED:45
+Signal: -85
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4581563087317,41.8467920135613,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12" styleUrl="#wifi-ap-wpa">
+            <name>VF_IT_FWA_D5F4</name>
+            <description>Name: C8:EA:F8:DB:D5:F4
+Signal: -83
+Encryption: WPA2
+Channel: 6</description>
+            <Point>
+                <coordinates>12.4581343800271,41.8468013996014,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13" styleUrl="#other">
+            <name>WOW FI - FASTWEB</name>
+            <description>Name: 62:B0:44:62:ED:46
+Signal: -85
+Encryption: Unknown
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4581343800271,41.8468013996014,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14" styleUrl="#other">
+            <name>Infostrada-7E9F2B</name>
+            <description>Name: 5C:E2:8C:7E:9F:2B
+Signal: -91
+Encryption: Auto
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4580896133118,41.8468219833107,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15" styleUrl="#wifi-ap-wpa">
+            <name>TIM-30884269</name>
+            <description>Name: A4:91:B1:D7:41:AD
+Signal: -89
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4580885166597,41.8468208832711,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16" styleUrl="#wifi-ap-wpa">
+            <name>DIRECT-0A-HP ENVY 6000 series</name>
+            <description>Name: 3A:CA:84:95:18:0A
+Signal: -92
+Encryption: WPA2
+Channel: 4</description>
+            <Point>
+                <coordinates>12.4580432996556,41.8467682053648,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17" styleUrl="#other">
+            <name>FASTWEB-EXT32</name>
+            <description>Name: C4:12:F5:28:F2:45
+Signal: -87
+Encryption: Auto
+Channel: 1</description>
+            <Point>
+                <coordinates>12.457926849475,41.8465539151363,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18" styleUrl="#wifi-ap-wpa">
+            <name>Home&amp;Life SuperWiFi-DBC8</name>
+            <description>Name: 5C:E2:8C:A9:DB:C8
+Signal: -87
+Encryption: WPA2
+Channel: 3</description>
+            <Point>
+                <coordinates>12.457926849475,41.8465539151363,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19" styleUrl="#wifi-ap-wpa">
+            <name>WebPocket-D43B_EXT</name>
+            <description>Name: B0:A7:B9:0E:FC:BD
+Signal: -88
+Encryption: WPA2
+Channel: 4</description>
+            <Point>
+                <coordinates>12.457926849475,41.8465539151363,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20" styleUrl="#other">
+            <name>Proscenic-850-35BF</name>
+            <description>Name: 7C:F6:66:F6:35:C0
+Signal: -83
+Encryption: None
+Channel: 6</description>
+            <Point>
+                <coordinates>12.4579036120413,41.8465135479377,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21" styleUrl="#other">
+            <name>owf-00:15:6D:3D:44:86</name>
+            <description>Name: 00:15:6D:3C:44:86
+Signal: -92
+Encryption: WPA
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4577840575311,41.846292549484,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22" styleUrl="#wifi-ap-wpa">
+            <name>SKYWIFI_SH7BL</name>
+            <description>Name: 3C:9E:C7:02:F5:E4
+Signal: -85
+Encryption: WPA2
+Channel: 6</description>
+            <Point>
+                <coordinates>12.4577840575311,41.846292549484,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23" styleUrl="#other">
+            <name>Infostrada-2.4GHz-9825B3</name>
+            <description>Name: 40:9B:CD:98:25:B3
+Signal: -90
+Encryption: Auto
+Channel: 1</description>
+            <Point>
+                <coordinates>12.457705080784,41.8461423508769,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24" styleUrl="#other">
+            <name>SoundBarSetup_A051</name>
+            <description>Name: 02:22:6C:37:A0:51
+Signal: -93
+Encryption: None
+Channel: 1</description>
+            <Point>
+                <coordinates>12.457705080784,41.8461423508769,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25" styleUrl="#wifi-ap-wpa">
+            <name>dlink-701458</name>
+            <description>Name: A0:AB:1B:70:14:58
+Signal: -91
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4576892235859,41.8461066933728,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26" styleUrl="#other">
+            <name>TP-Link_09AE</name>
+            <description>Name: 10:27:F5:CC:09:AE
+Signal: -91
+Encryption: Auto
+Channel: 3</description>
+            <Point>
+                <coordinates>12.4576892235859,41.8461066933728,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27" styleUrl="#wifi-ap-wpa">
+            <name>Patty-5G </name>
+            <description>Name: 30:DE:4B:B9:FD:C1
+Signal: -82
+Encryption: WPA2
+Channel: 4</description>
+            <Point>
+                <coordinates>12.4576892235859,41.8461066933728,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28" styleUrl="#wifi-ap-wpa">
+            <name>GBT_NET_EXT</name>
+            <description>Name: 00:31:92:76:6B:F0
+Signal: -87
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4576692650104,41.8460683263985,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29" styleUrl="#wifi-ap-wpa">
+            <name>Home&amp;Life SuperWiFi-DEC5</name>
+            <description>Name: BC:CF:4F:08:DE:C5
+Signal: -90
+Encryption: WPA2
+Channel: 6</description>
+            <Point>
+                <coordinates>12.4576692650104,41.8460683263985,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="30" styleUrl="#wifi-ap-wpa">
+            <name>K22</name>
+            <description>Name: 1E:84:12:E5:30:0D
+Signal: -91
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4576515172769,41.8460322938051,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31" styleUrl="#wifi-ap-wpa">
+            <name>H196A_7A8B</name>
+            <description>Name: 90:FD:73:D0:7A:8B
+Signal: -87
+Encryption: WPA2
+Channel: 9</description>
+            <Point>
+                <coordinates>12.4576515172769,41.8460322938051,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32" styleUrl="#wifi-ap-wpa">
+            <name>SKYWIFI_TAX6E</name>
+            <description>Name: C0:A3:6E:CE:E8:64
+Signal: -90
+Encryption: WPA2
+Channel: 11</description>
+            <Point>
+                <coordinates>12.4576515172769,41.8460322938051,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33" styleUrl="#wifi-ap-wpa">
+            <name>TIM-80762694</name>
+            <description>Name: 9E:B1:01:35:57:68
+Signal: -90
+Encryption: WPA2
+Channel: 11</description>
+            <Point>
+                <coordinates>12.4576515172769,41.8460322938051,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34" styleUrl="#wifi-ap-wpa">
+            <name>Hommy</name>
+            <description>Name: C0:FF:D4:94:F1:C0
+Signal: -88
+Encryption: WPA2
+Channel: 13</description>
+            <Point>
+                <coordinates>12.4576437927278,41.8460095467093,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35" styleUrl="#wifi-ap-wpa">
+            <name>Redmi 9AT</name>
+            <description>Name: AA:39:6C:2D:10:FE
+Signal: -92
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4576437927278,41.8460095467093,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36" styleUrl="#wifi-ap-wpa">
+            <name>Vodafone-Casetta</name>
+            <description>Name: 14:14:59:C2:4D:F1
+Signal: -86
+Encryption: WPA2
+Channel: 2</description>
+            <Point>
+                <coordinates>12.4576473179859,41.846001289899,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37" styleUrl="#wifi-ap-wpa">
+            <name>Vodafone-Guest</name>
+            <description>Name: 7A:14:59:C2:4D:F4
+Signal: -84
+Encryption: WPA2
+Channel: 2</description>
+            <Point>
+                <coordinates>12.4576473179859,41.846001289899,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38" styleUrl="#other">
+            <name>InfostradaWiFi-f157ad</name>
+            <description>Name: E4:6F:13:F1:57:B0
+Signal: -90
+Encryption: Auto
+Channel: 2</description>
+            <Point>
+                <coordinates>12.4576573564657,41.8460261759104,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39" styleUrl="#wifi-ap-wpa">
+            <name>FASTWEB-R63ZF2</name>
+            <description>Name: 98:00:6A:C4:F8:BC
+Signal: -87
+Encryption: WPA2
+Channel: 11</description>
+            <Point>
+                <coordinates>12.4576758229454,41.8460659008246,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40" styleUrl="#wifi-ap-wpa">
+            <name>simotteo</name>
+            <description>Name: 3C:84:6A:96:6F:96
+Signal: -83
+Encryption: WPA2
+Channel: 2</description>
+            <Point>
+                <coordinates>12.4579508284485,41.846619161559,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41" styleUrl="#other">
+            <name>APf8-dc-7a-64-e5-fe</name>
+            <description>Name: C0:EE:40:89:66:DC
+Signal: -93
+Encryption: WPA
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4577264985414,41.846907660495,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42" styleUrl="#wifi-ap-wpa">
+            <name>Vodafone-C00180041_EXT</name>
+            <description>Name: 9C:A2:F4:3F:09:F3
+Signal: -86
+Encryption: WPA2
+Channel: 2</description>
+            <Point>
+                <coordinates>12.457726857742,41.8468968350032,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43" styleUrl="#wifi-ap-wpa">
+            <name>FASTWEB-FB3EF9</name>
+            <description>Name: 20:B0:01:FB:3E:F9
+Signal: -87
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4573538137562,41.8469771948909,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44" styleUrl="#wifi-ap-wpa">
+            <name>FASTWEB-p7wWU7_EXT</name>
+            <description>Name: E4:C3:2A:E0:98:3C
+Signal: -85
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.457310214621,41.8469848628037,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45" styleUrl="#wifi-ap-wpa">
+            <name>WINDTRE-FBDAF8</name>
+            <description>Name: 3E:52:A1:FB:DA:F9
+Signal: -87
+Encryption: WPA2
+Channel: 1</description>
+            <Point>
+                <coordinates>12.4577485755884,41.8468989760814,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

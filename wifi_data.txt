@@ -1,0 +1,50 @@
+Nome,MAC Address,Tempo
+Wind3 HUB-7D2615,10:71:B3:7D:26:15,-85,Encrypt. WPA2,Ch. 8,Visibility: Visible,Time Elapsed: 2
+Wind3 HUB-91B145,EC:3E:B3:91:B1:45,-91,Encrypt. WPA2,Ch. 4,Visibility: Visible,Time Elapsed: 6
+SKYWIFI_KTTEL,9C:31:C3:C0:3D:54,-88,Encrypt. WPA2,Ch. 13,Visibility: Visible,Time Elapsed: 6
+FASTWEB-YKQ965,DC:F8:B9:A8:94:3F,-79,Encrypt. WPA2,Ch. 6,Visibility: Visible,Time Elapsed: 27
+WINDTRE-145188,E6:FA:C4:14:51:89,-92,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 41
+Wind3 HUB - 1A77C8,84:93:B2:1A:77:C8,-85,Encrypt. WPA2,Ch. 7,Visibility: Visible,Time Elapsed: 42
+Opposabri,B2:C6:F8:9D:CB:82,-90,Encrypt. WPA2,Ch. 12,Visibility: Visible,Time Elapsed: 80
+Galaxy A20e691C,86:AC:A5:09:64:7A,-88,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 98
+Home&Life SuperWiFi-F0FA,B8:D5:26:15:F0:FA,-87,Encrypt. WPA2,Ch. 3,Visibility: Visible,Time Elapsed: 98
+TIM-28098765,20:B0:01:AC:C0:CD,-83,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 124
+FASTWEB-E6r45G_2.4GEXT,CC:32:E5:6A:14:46,-84,Encrypt. WPA2,Ch. 2,Visibility: Visible,Time Elapsed: 134
+Wind3 HUB-505041,EC:3E:B3:50:50:41,-82,Encrypt. WPA2,Ch. 4,Visibility: Visible,Time Elapsed: 135
+Vodafone-55121644,E4:8F:34:36:0D:7C,-85,Encrypt. WPA2,Ch. 5,Visibility: Visible,Time Elapsed: 135
+iliadbox-670616,22:66:CF:68:60:E4,-93,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 143
+FASTWEB-V9X5M5,1C:B0:44:62:ED:45,-85,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 146
+VF_IT_FWA_D5F4,C8:EA:F8:DB:D5:F4,-83,Encrypt. WPA2,Ch. 6,Visibility: Visible,Time Elapsed: 147
+WOW FI - FASTWEB,62:B0:44:62:ED:46,-85,Encrypt. Unknown,Ch. 1,Visibility: Visible,Time Elapsed: 147
+Infostrada-7E9F2B,5C:E2:8C:7E:9F:2B,-91,Encrypt. Auto,Ch. 1,Visibility: Visible,Time Elapsed: 155
+TIM-30884269,A4:91:B1:D7:41:AD,-89,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 158
+DIRECT-0A-HP ENVY 6000 series,3A:CA:84:95:18:0A,-92,Encrypt. WPA2,Ch. 4,Visibility: Visible,Time Elapsed: 181
+FASTWEB-EXT32,C4:12:F5:28:F2:45,-87,Encrypt. Auto,Ch. 1,Visibility: Visible,Time Elapsed: 192
+Home&Life SuperWiFi-DBC8,5C:E2:8C:A9:DB:C8,-87,Encrypt. WPA2,Ch. 3,Visibility: Visible,Time Elapsed: 192
+WebPocket-D43B_EXT,B0:A7:B9:0E:FC:BD,-88,Encrypt. WPA2,Ch. 4,Visibility: Visible,Time Elapsed: 192
+Proscenic-850-35BF,7C:F6:66:F6:35:C0,-83,Encrypt. None,Ch. 6,Visibility: Visible,Time Elapsed: 193
+owf-00:15:6D:3D:44:86,00:15:6D:3C:44:86,-92,Encrypt. WPA,Ch. 1,Visibility: Visible,Time Elapsed: 197
+SKYWIFI_SH7BL,3C:9E:C7:02:F5:E4,-85,Encrypt. WPA2,Ch. 6,Visibility: Visible,Time Elapsed: 197
+Infostrada-2.4GHz-9825B3,40:9B:CD:98:25:B3,-90,Encrypt. Auto,Ch. 1,Visibility: Visible,Time Elapsed: 201
+SoundBarSetup_A051,02:22:6C:37:A0:51,-93,Encrypt. None,Ch. 1,Visibility: Visible,Time Elapsed: 201
+dlink-701458,A0:AB:1B:70:14:58,-91,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 202
+TP-Link_09AE,10:27:F5:CC:09:AE,-91,Encrypt. Auto,Ch. 3,Visibility: Visible,Time Elapsed: 202
+Patty-5G ,30:DE:4B:B9:FD:C1,-82,Encrypt. WPA2,Ch. 4,Visibility: Visible,Time Elapsed: 202
+GBT_NET_EXT,00:31:92:76:6B:F0,-87,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 203
+Home&Life SuperWiFi-DEC5,BC:CF:4F:08:DE:C5,-90,Encrypt. WPA2,Ch. 6,Visibility: Visible,Time Elapsed: 203
+K22,1E:84:12:E5:30:0D,-91,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 204
+H196A_7A8B,90:FD:73:D0:7A:8B,-87,Encrypt. WPA2,Ch. 9,Visibility: Visible,Time Elapsed: 204
+SKYWIFI_TAX6E,C0:A3:6E:CE:E8:64,-90,Encrypt. WPA2,Ch. 11,Visibility: Visible,Time Elapsed: 204
+TIM-80762694,9E:B1:01:35:57:68,-90,Encrypt. WPA2,Ch. 11,Visibility: Visible,Time Elapsed: 204
+Hommy,C0:FF:D4:94:F1:C0,-88,Encrypt. WPA2,Ch. 13,Visibility: Visible,Time Elapsed: 205
+Redmi 9AT,AA:39:6C:2D:10:FE,-92,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 205
+Vodafone-Casetta,14:14:59:C2:4D:F1,-86,Encrypt. WPA2,Ch. 2,Visibility: Visible,Time Elapsed: 209
+Vodafone-Guest,7A:14:59:C2:4D:F4,-84,Encrypt. WPA2,Ch. 2,Visibility: Visible,Time Elapsed: 209
+InfostradaWiFi-f157ad,E4:6F:13:F1:57:B0,-90,Encrypt. Auto,Ch. 2,Visibility: Visible,Time Elapsed: 210
+FASTWEB-R63ZF2,98:00:6A:C4:F8:BC,-87,Encrypt. WPA2,Ch. 11,Visibility: Visible,Time Elapsed: 211
+simotteo,3C:84:6A:96:6F:96,-83,Encrypt. WPA2,Ch. 2,Visibility: Visible,Time Elapsed: 219
+APf8-dc-7a-64-e5-fe,C0:EE:40:89:66:DC,-93,Encrypt. WPA,Ch. 1,Visibility: Visible,Time Elapsed: 272
+Vodafone-C00180041_EXT,9C:A2:F4:3F:09:F3,-86,Encrypt. WPA2,Ch. 2,Visibility: Visible,Time Elapsed: 279
+FASTWEB-FB3EF9,20:B0:01:FB:3E:F9,-87,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 290
+FASTWEB-p7wWU7_EXT,E4:C3:2A:E0:98:3C,-85,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 291
+WINDTRE-FBDAF8,3E:52:A1:FB:DA:F9,-87,Encrypt. WPA2,Ch. 1,Visibility: Visible,Time Elapsed: 317
